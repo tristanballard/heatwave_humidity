@@ -7,6 +7,6 @@ After downloading CMIP5, regrid all onto a common 1x1 degree grid using the scri
 
 'station_data' looks at station observations for temperature and humidity.
 
-Most R scripts are run on a cluster and contain in begginging comments approximate run time and required memory allotment. They are often run in parallel, especially for the CMIP5 data.
+Most R scripts are run on a cluster and contain in comments approximate run time and required memory allotment. They are often run in parallel, especially for the CMIP5 data.
 
 Home/data directories will need to be changed accordingly.
